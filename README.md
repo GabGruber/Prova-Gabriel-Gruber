@@ -1,2 +1,1 @@
-# Teste_VC
- # colocar informações, o que precisa para funcionar, etc
+# Teste_VC por Gabriel Gruber Bernstein
