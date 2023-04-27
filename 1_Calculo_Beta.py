@@ -1,6 +1,6 @@
 import pandas as pd
 
-filepath = 'C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\mkt_returns.txt'
+filepath = 'mkt_returns.txt'
 
 data = pd.read_csv(filepath, index_col='Date')
 
